@@ -1,0 +1,46 @@
+background {background}
+foreground {foreground}
+
+# cursor     #F8F8F2
+
+color0    {color0}
+color1    {color1}
+color2    {color2}
+color3    {color3}
+color4    {color4}
+color5    {color5}
+color6    {color6}
+color7    {color7}
+
+color8    {color8}
+color9    {color9}
+color10   {color10}
+color11   {color11}
+color12   {color12}
+color13   {color13}
+color14   {color14}
+color15   {color14} 
+
+# The foreground for selections
+#selection_foreground #F8F8F2
+selection_foreground {active}
+# The background for selections
+#selection_background #8ab4f2
+
+# Emacs terminal background
+#color17    #323F4E
+# # Emacs terminal modeline
+#color23    #1a1a1a
+
+# The color for the border of the active window
+#active_border_color #F1FA8C
+
+# The color for the border of inactive windows
+# inactive_border_color #56687E
+
+#url_color #6498EF
+
+# active_tab_foreground #F8F8F2
+# active_tab_background #24D1E7
+# inactive_tab_foreground #F8F8F2
+# inactive_tab_background #1a1a1a

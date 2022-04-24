@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/purple_car_2.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#150f14",
+        "foreground": "#dee4eb",
+        "cursor": "#dee4eb"
+    },
+    "colors": {
+        "color0": "#150f14",
+        "color1": "#925672",
+        "color2": "#B95DA0",
+        "color3": "#5D87B2",
+        "color4": "#BFA4BB",
+        "color5": "#A7B3D1",
+        "color6": "#B2CEE6",
+        "color7": "#dee4eb",
+        "color8": "#9b9fa4",
+        "color9": "#925672",
+        "color10": "#B95DA0",
+        "color11": "#5D87B2",
+        "color12": "#BFA4BB",
+        "color13": "#A7B3D1",
+        "color14": "#B2CEE6",
+        "color15": "#dee4eb"
+    }
+}

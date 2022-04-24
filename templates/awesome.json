@@ -1,0 +1,21 @@
+{
+    "wallpaper": "/home/geovane/.config/wpg/wallpapers/sunset.jpg",
+    "main": "#073986",
+    "gray": "#9ca5c8",
+    "wibox"  : "#001930",
+    "icon": "#9ca5c8",
+    "text": "#aaaaaa",
+    "urgent": "#B25500",
+    "highlight": "#e0e0e0",
+    "border": "#404040",
+    "shadow1": "#141414",
+    "shadow2": "#313131",
+    "shadow3": "#1c1c1c",
+    "shadow4": "#767676",
+    "button": "#575757",
+    "pressed": "#404040",
+    "desktop_gray" : "#404040",
+    "desktop_icon" : "#606060",
+    "bg": "#161616",
+    "bg_second": "#181818"
+}

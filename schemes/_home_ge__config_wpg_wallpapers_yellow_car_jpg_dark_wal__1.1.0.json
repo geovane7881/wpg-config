@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/yellow_car.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151312",
+        "foreground": "#cac8c6",
+        "cursor": "#cac8c6"
+    },
+    "colors": {
+        "color0": "#151312",
+        "color1": "#7D7F80",
+        "color2": "#AB914E",
+        "color3": "#F6D572",
+        "color4": "#F9D253",
+        "color5": "#E7B444",
+        "color6": "#D5AC55",
+        "color7": "#cac8c6",
+        "color8": "#8d8c8a",
+        "color9": "#7D7F80",
+        "color10": "#AB914E",
+        "color11": "#F6D572",
+        "color12": "#F9D253",
+        "color13": "#E7B444",
+        "color14": "#D5AC55",
+        "color15": "#cac8c6"
+    }
+}

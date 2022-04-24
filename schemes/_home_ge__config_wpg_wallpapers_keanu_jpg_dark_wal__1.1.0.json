@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/keanu.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0613",
+        "foreground": "#81c3ea",
+        "cursor": "#81c3ea"
+    },
+    "colors": {
+        "color0": "#0d0613",
+        "color1": "#195DDC",
+        "color2": "#AA77B8",
+        "color3": "#A128C6",
+        "color4": "#232BD1",
+        "color5": "#5B59DA",
+        "color6": "#5628D3",
+        "color7": "#81c3ea",
+        "color8": "#5a88a3",
+        "color9": "#195DDC",
+        "color10": "#AA77B8",
+        "color11": "#A128C6",
+        "color12": "#232BD1",
+        "color13": "#5B59DA",
+        "color14": "#5628D3",
+        "color15": "#81c3ea"
+    }
+}

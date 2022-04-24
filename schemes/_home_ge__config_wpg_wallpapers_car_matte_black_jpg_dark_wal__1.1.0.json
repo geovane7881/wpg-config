@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/car_matte_black.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B0B0B",
+        "foreground": "#dbdbdb",
+        "cursor": "#dbdbdb"
+    },
+    "colors": {
+        "color0": "#0B0B0B",
+        "color1": "#82807F",
+        "color2": "#7D8285",
+        "color3": "#919292",
+        "color4": "#A29E9D",
+        "color5": "#AEAEAE",
+        "color6": "#CABDB5",
+        "color7": "#dbdbdb",
+        "color8": "#999999",
+        "color9": "#82807F",
+        "color10": "#7D8285",
+        "color11": "#919292",
+        "color12": "#A29E9D",
+        "color13": "#AEAEAE",
+        "color14": "#CABDB5",
+        "color15": "#dbdbdb"
+    }
+}

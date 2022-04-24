@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/endless.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151930",
+        "foreground": "#ebc9dd",
+        "cursor": "#ebc9dd"
+    },
+    "colors": {
+        "color0": "#151930",
+        "color1": "#3298F3",
+        "color2": "#9C9ADF",
+        "color3": "#E094B5",
+        "color4": "#A98DB1",
+        "color5": "#908BD3",
+        "color6": "#5F9EF3",
+        "color7": "#ebc9dd",
+        "color8": "#a48c9a",
+        "color9": "#3298F3",
+        "color10": "#9C9ADF",
+        "color11": "#E094B5",
+        "color12": "#A98DB1",
+        "color13": "#908BD3",
+        "color14": "#5F9EF3",
+        "color15": "#ebc9dd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/geovane/.wallpaper/keanu.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0612",
+        "foreground": "#94d8ee",
+        "cursor": "#94d8ee"
+    },
+    "colors": {
+        "color0": "#0c0612",
+        "color1": "#2029D2",
+        "color2": "#5626D4",
+        "color3": "#165CDE",
+        "color4": "#3956C5",
+        "color5": "#AC2ED1",
+        "color6": "#139BE9",
+        "color7": "#94d8ee",
+        "color8": "#6797a6",
+        "color9": "#2029D2",
+        "color10": "#5626D4",
+        "color11": "#165CDE",
+        "color12": "#3956C5",
+        "color13": "#AC2ED1",
+        "color14": "#139BE9",
+        "color15": "#94d8ee"
+    }
+}

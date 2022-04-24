@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/sun_red_minimalism.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#704b4a",
+        "foreground": "#e1cbc6",
+        "cursor": "#e1cbc6"
+    },
+    "colors": {
+        "color0": "#704b4a",
+        "color1": "#BAA19F",
+        "color2": "#9E9DA4",
+        "color3": "#A49DA4",
+        "color4": "#A5A4AA",
+        "color5": "#C79091",
+        "color6": "#F98B86",
+        "color7": "#e1cbc6",
+        "color8": "#9d8e8a",
+        "color9": "#BAA19F",
+        "color10": "#9E9DA4",
+        "color11": "#A49DA4",
+        "color12": "#A5A4AA",
+        "color13": "#C79091",
+        "color14": "#F98B86",
+        "color15": "#e1cbc6"
+    }
+}

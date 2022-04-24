@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/hyperbeast.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120a1c",
+        "foreground": "#c6d8d3",
+        "cursor": "#c6d8d3"
+    },
+    "colors": {
+        "color0": "#120a1c",
+        "color1": "#CB9F49",
+        "color2": "#4B3B93",
+        "color3": "#5B619C",
+        "color4": "#A3478D",
+        "color5": "#61A29D",
+        "color6": "#6AA9C3",
+        "color7": "#c6d8d3",
+        "color8": "#8a9793",
+        "color9": "#CB9F49",
+        "color10": "#4B3B93",
+        "color11": "#5B619C",
+        "color12": "#A3478D",
+        "color13": "#61A29D",
+        "color14": "#6AA9C3",
+        "color15": "#c6d8d3"
+    }
+}

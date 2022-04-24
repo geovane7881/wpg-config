@@ -1,0 +1,45 @@
+[options]
+font = Cousine Nerd Font Mono 13
+#font = Iosevka Custom 13
+#font = Monospace 12
+scrollback_lines = 10000
+[colors]
+# special
+#foreground      = #ddc1d9
+#foreground_bold = #ddc1d9
+#cursor          = #ddc1d9
+##background      = #423636
+#transparente
+#background = rgba(63, 63, 63, 0.50)
+
+# black
+color0  = #001930
+color8  = #6d738c
+
+# red
+color1  = #094B92
+color9  = #094B92
+
+# green
+color2 = #BD4455
+color10 = #BD4455
+
+# yellow
+color3  = #073986
+color11 = #073986
+
+# blue
+color4  = #8A3254
+color12 = #8A3254
+
+# magenta
+color5  = #A53756
+color13 = #A53756
+
+# cyan
+color6 = #235D9F
+color14 = #235D9F
+
+# white
+color7  = #9ca5c8
+color15 = #9ca5c8

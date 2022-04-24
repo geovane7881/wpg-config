@@ -1,0 +1,246 @@
+.startpage  {{
+   background-color: {color6} !important;
+}}
+body {{
+   --colorBg: {color0} !important;
+
+    --colorBgAlpha: {color0} !important;
+    --colorBgAlphaHeavy: {color0} !important;
+    --colorBgAlphaHeavier: {color0} !important;
+    --colorBgDark: {color0} !important;
+    --colorBgDarker: {color0} !important;
+    --colorBgLight: {color0} !important;
+    --colorBgLighter: {color0} !important;
+    --colorBgLightIntense: {color0} !important;
+    --colorBgIntense: {color0} !important;
+    --colorBgIntenser: {color0} !important;
+    --colorBgInverse: {color0} !important;
+    --colorBgInverser: {color0} !important;
+    --colorBgFaded: {color0} !important;
+
+    --colorHighlightBg:{color6} !important;
+    --colorHighlightBgAlpha:{color6} !important;
+    --colorHighlightBgDark:{color6} !important;
+
+    --colorFg: {color7} !important;
+    --colorFgIntense: {color7} !important;
+    --colorFgAlpha: {color7} !important;
+    --colorFgFaded:{color7} !important;
+    --colorFgFadedMore: {color7} !important;
+    --colorHighlightFg:{color7} !important;
+    --colorHighlightFgAlpha:{color7} !important;
+    --colorHighlightFgAlphaHeavy:{color7} !important;
+    --colorBorder:{color7} !important;
+    --colorBorderHighlight:{color7} !important;
+    --colorBorderDisabled:{color7} !important;
+    --colorBorderIntense:{color7} !important;
+
+    --colorAccentBg: {color4} !important;
+    --colorAccentBgAlpha: {color4} !important;
+    --colorAccentBgAlphaHeavy: {color4} !important;
+    --colorAccentBgDark: {color4} !important;
+    --colorAccentBgDarker: {color4} !important;
+    --colorAccentBgFaded: {color4} !important;
+    --colorAccentBgFadedMore: {color4} !important;
+    --colorAccentBgFadedMost: {color4} !important;
+    --colorAccentBorder: {color4} !important;
+    --colorAccentBorderDark: {color4} !important;
+
+   /*
+    --colorBgAlpha: rgba(46,58,80,0.8);
+    --colorBgAlphaHeavy: rgba(34,46,67,0.6);
+    --colorBgAlphaHeavier: rgba(26,39,59,0.2);
+    --colorBgDark: #28344a;
+    --colorBgDarker: #222e43;
+    --colorBgLight: #323e54;
+    --colorBgLighter: #434f66;
+    --colorBgLightIntense: #364259;
+    --colorBgIntense: #222e43;
+    --colorBgIntenser: #1a273b;
+    --colorBgInverse: #323e54;
+    --colorBgInverser: #3f4a61;
+    --colorBgFaded: #364259;
+    --colorFg: #e1cbc6;
+    --colorFgAlpha: rgba(225,203,198,0.1);
+    --colorFgFaded: #bba6a1;
+    --colorFgFadedMore: #97837e;
+    --colorHighlightBg: #ffb608;
+    --colorHighlightBgAlpha: rgba(255,182,8,0.25);
+    --colorHighlightBgDark: #e39e00;
+    --colorHighlightFg: #111111;
+    --colorHighlightFgAlpha: rgba(17,17,17,0.5);
+    --colorHighlightFgAlphaHeavy: rgba(17,17,17,0.25);
+    --colorBorder: #182539;
+    --colorBorderHighlight: #d19912;
+    --colorBorderDisabled: #1c283d;
+    --colorBorderIntense: #071629;
+    --radiusRound: 100px;
+    --radiusRounded: 2px;
+    --radius: 0px;
+    --radiusHalf: calc(var(--radius) * 0.5);
+    --colorAccentBgAlpha: rgba(255,242,90,0.4);
+    --colorAccentBgAlphaHeavy: rgba(255,242,90,0.25);
+    --colorAccentBgDark: #e8a300;
+    --colorAccentBgDarker: #c78700;
+    --colorAccentBgFaded: #ffc525;
+    --colorAccentBgFadedMore: #ffcf32;
+    --colorAccentBgFadedMost: #fff25a;
+    --colorAccentBorder: #f1aa00;
+    --colorAccentBorderDark: #da9700;
+    --colorAccentFg: #111111;
+    --colorAccentFgFaded: #88640d;
+    */
+ }}
+
+:root {{
+  --bar-height: 29px;
+  --address-width: calc(100vw / 2);
+}}
+
+.tab-position .tab .favicon, .tab-position .tab .close {{
+    min-width: 16px;
+    min-height: 25px;
+    padding-top: 6px;
+}}
+
+.toolbar-extensions {{
+  height: 27px;
+  background-color: transparent !important;
+}}
+.toolbar-noflex {{
+  height: 27px;
+  background-color: transparent !important;
+}}
+
+.button-circularimage {{
+  display: none;
+}}
+
+.add-bookmark-container.addressfield-popup-container,
+.button-addressfield.input-dropdown,
+.button-addressfield.reader-mode,
+.button-toolbar.back,
+.button-toolbar.forward,
+.button-toolbar.home,
+.button-toolbar.reload,
+.close,
+.sync-and-trash-container,
+.vivaldi {{
+  display: none !important;
+}}
+
+.button-tabbar.newtab,
+#main > div.toolbar-addressbar.toolbar > span.extensions-wrapper > span > button,
+#header,
+.toolbar-addressbar.toolbar,
+/*
+.window-minimize,
+.window-maximize,
+.window-close
+*/
+
+{{
+  height: var(--bar-height) !important;
+}}
+
+.addressfield {{
+  height: 26px !important;
+}}
+.addressfield, .searchfield {{
+  border: none !important;
+}}
+.UrlField {{
+  padding-top: 2px;
+}}
+.SiteInfoButton {{
+    height: 19px;
+    /* margin: 0; */
+    margin-left: 6px;
+}}
+
+.tab,
+#tabs-container,
+.tab-position, {{
+  height: 27px !important;
+}}
+
+.button-tabbar.newtab,
+.tab,
+.window-minimize,
+.window-maximize,
+.window-close {{
+  z-index: 1 !important;
+}}
+
+.addressfield,
+.tab {{
+  margin: 0px !important;
+  padding: 0px !important;
+}}
+
+.button-tabbar.newtab,
+#header {{
+  min-height: unset !important;
+}}
+
+div.addressfield > form > div {{
+  font-size: 14px !important;
+  transform: translateY(2px) !important;
+}}
+
+#main {{
+  min-height: 100% !important;
+  transform: translateY(calc(0px - var(--bar-height)));
+}}
+
+#browser.fullscreen:not(.mac), #browser.fullscreen.mac.inner {{
+  /*transform: translateY(calc(var(--bar-height) - 10px));*/
+  --bar-height: 0px !important;
+}}
+
+#tabs-container > div.resize {{
+  max-width: calc(100vw - var(--address-width) - 10px);
+  margin: 0 0 0 5px;
+}}
+
+div.addressfield > button {{
+  transform: translateY(3px) !important;
+}}
+
+.tab-header {{
+  flex: 0 0 var(--bar-height) !important;
+  padding: 0 0 0 3px !important;
+}}
+
+#tabs-container {{
+  padding: 0 0 0 var(--address-width) !important;
+}}
+
+.toolbar-addressbar.toolbar {{
+  margin: 0 !important;
+  transform: translateY(-1px) !important;
+  width: var(--address-width) !important;
+}}
+
+.tab-strip {{
+    height: 28px !important;
+}}
+.button-narrow {{
+  display: none;
+}}
+
+.audioicon {{
+	padding-top: 10px !important;
+}}
+
+.item-count {{
+	background-color: var(--colorBg) !important;
+}}
+
+.fullwidth {{
+	min-width: 0px;
+	min-height: 0px;
+	width: 0px;
+	height: 0px;
+}}
+

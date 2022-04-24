@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/ant_mi3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0c0d",
+        "foreground": "#b6b6b7",
+        "cursor": "#b6b6b7"
+    },
+    "colors": {
+        "color0": "#0b0c0d",
+        "color1": "#6A1D52",
+        "color2": "#463744",
+        "color3": "#692157",
+        "color4": "#4B4B4D",
+        "color5": "#5E5E60",
+        "color6": "#6E6E70",
+        "color7": "#b6b6b7",
+        "color8": "#7f7f80",
+        "color9": "#6A1D52",
+        "color10": "#463744",
+        "color11": "#692157",
+        "color12": "#4B4B4D",
+        "color13": "#5E5E60",
+        "color14": "#6E6E70",
+        "color15": "#b6b6b7"
+    }
+}

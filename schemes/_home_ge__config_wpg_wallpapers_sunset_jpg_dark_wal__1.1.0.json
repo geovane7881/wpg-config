@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/sunset.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#011932",
+        "foreground": "#9da5c8",
+        "cursor": "#9da5c8"
+    },
+    "colors": {
+        "color0": "#011932",
+        "color1": "#8A3255",
+        "color2": "#A53757",
+        "color3": "#BD4457",
+        "color4": "#073987",
+        "color5": "#094B93",
+        "color6": "#235C9F",
+        "color7": "#9da5c8",
+        "color8": "#6d738c",
+        "color9": "#8A3255",
+        "color10": "#A53757",
+        "color11": "#BD4457",
+        "color12": "#073987",
+        "color13": "#094B93",
+        "color14": "#235C9F",
+        "color15": "#9da5c8"
+    }
+}

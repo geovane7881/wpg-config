@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/geovane/.config/wpg/wallpapers/sunset.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#001930",
+        "foreground": "#9ca5c8",
+        "cursor": "#9ca5c8"
+    },
+    "colors": {
+        "color0": "#001930",
+        "color1": "#094B92",
+        "color2": "#BD4455",
+        "color3": "#073986",
+        "color4": "#8A3254",
+        "color5": "#A53756",
+        "color6": "#235D9F",
+        "color7": "#9ca5c8",
+        "color8": "#6d738c",
+        "color9": "#094B92",
+        "color10": "#BD4455",
+        "color11": "#073986",
+        "color12": "#8A3254",
+        "color13": "#A53756",
+        "color14": "#235D9F",
+        "color15": "#9ca5c8"
+    }
+}

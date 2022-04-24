@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/waves.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0b13",
+        "foreground": "#7dc6dc",
+        "cursor": "#7dc6dc"
+    },
+    "colors": {
+        "color0": "#0e0b13",
+        "color1": "#0476A8",
+        "color2": "#A93055",
+        "color3": "#895589",
+        "color4": "#5D6195",
+        "color5": "#146592",
+        "color6": "#0989B7",
+        "color7": "#7dc6dc",
+        "color8": "#578a9a",
+        "color9": "#0476A8",
+        "color10": "#A93055",
+        "color11": "#895589",
+        "color12": "#5D6195",
+        "color13": "#146592",
+        "color14": "#0989B7",
+        "color15": "#7dc6dc"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/eclipse.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090914",
+        "foreground": "#d9979a",
+        "cursor": "#d9979a"
+    },
+    "colors": {
+        "color0": "#090914",
+        "color1": "#944544",
+        "color2": "#953243",
+        "color3": "#AD6159",
+        "color4": "#654049",
+        "color5": "#AB4C46",
+        "color6": "#753541",
+        "color7": "#d9979a",
+        "color8": "#97696b",
+        "color9": "#944544",
+        "color10": "#953243",
+        "color11": "#AD6159",
+        "color12": "#654049",
+        "color13": "#AB4C46",
+        "color14": "#753541",
+        "color15": "#d9979a"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/yellow_field.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#221314",
+        "foreground": "#f1e5e0",
+        "cursor": "#f1e5e0"
+    },
+    "colors": {
+        "color0": "#221314",
+        "color1": "#9D604D",
+        "color2": "#E79639",
+        "color3": "#E5A54E",
+        "color4": "#D7AE65",
+        "color5": "#787489",
+        "color6": "#E8C5AB",
+        "color7": "#f1e5e0",
+        "color8": "#a8a09c",
+        "color9": "#9D604D",
+        "color10": "#E79639",
+        "color11": "#E5A54E",
+        "color12": "#D7AE65",
+        "color13": "#787489",
+        "color14": "#E8C5AB",
+        "color15": "#f1e5e0"
+    }
+}

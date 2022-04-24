@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/lambo.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151037",
+        "foreground": "#eec1d2",
+        "cursor": "#eec1d2"
+    },
+    "colors": {
+        "color0": "#151037",
+        "color1": "#9F5C94",
+        "color2": "#ED4E97",
+        "color3": "#EB6BA3",
+        "color4": "#3A9BA4",
+        "color5": "#4EACAF",
+        "color6": "#4AC2BB",
+        "color7": "#eec1d2",
+        "color8": "#a68793",
+        "color9": "#9F5C94",
+        "color10": "#ED4E97",
+        "color11": "#EB6BA3",
+        "color12": "#3A9BA4",
+        "color13": "#4EACAF",
+        "color14": "#4AC2BB",
+        "color15": "#eec1d2"
+    }
+}

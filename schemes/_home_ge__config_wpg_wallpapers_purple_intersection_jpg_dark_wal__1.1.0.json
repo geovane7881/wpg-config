@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ge/.config/wpg/wallpapers/purple_intersection.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100c1a",
+        "foreground": "#e0afdb",
+        "cursor": "#e0afdb"
+    },
+    "colors": {
+        "color0": "#100c1a",
+        "color1": "#6150C9",
+        "color2": "#6E55D4",
+        "color3": "#8E3E82",
+        "color4": "#A1549B",
+        "color5": "#E26EAA",
+        "color6": "#9B5FCF",
+        "color7": "#e0afdb",
+        "color8": "#9c7a99",
+        "color9": "#6150C9",
+        "color10": "#6E55D4",
+        "color11": "#8E3E82",
+        "color12": "#A1549B",
+        "color13": "#E26EAA",
+        "color14": "#9B5FCF",
+        "color15": "#e0afdb"
+    }
+}
